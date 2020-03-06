@@ -69,3 +69,7 @@ img   {
 h4.amiable {
   background: linear-gradient(to right,  #22aa44, #fff)
 }
+
+h4.indifferent {
+  background: linear-gradient(to right,  #C9AE27, #fff)
+}
