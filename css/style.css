@@ -32,7 +32,7 @@ h4 {
 .indifferent {
   background-color: #dddd22;
   border: 1px solid #C9AE27;
-  box-shadow:  -1px 1px #dddd22, -2px 2px #C9AE27, -3px 3px #C9AE27, -4px 4px #C9AE27, -5px 5px #C9AE27;
+  box-shadow:  -1px 1px #C9AE27, -2px 2px #C9AE27, -3px 3px #C9AE27, -4px 4px #C9AE27, -5px 5px #C9AE27;
 }
 
 .dubious {
